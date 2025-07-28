@@ -2,7 +2,7 @@
 
 !LinkedIn (https://www.linkedin.com/in/shivam-tyagi-b1b040165/ | 💡 Problem Solver
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **shivamtyagi577/shivamtyagi577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
