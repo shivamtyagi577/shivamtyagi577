@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shivam Tyagi 👨🏻
 
-_[![LinkedIn]_(https://www.linkedin.com/in/shivam-tyagi-b1b040165/ | 💡 Problem Solver
+!LinkedIn(https://www.linkedin.com/in/shivam-tyagi-b1b040165/ | 💡 Problem Solver
 
 <!--
 **shivamtyagi577/shivamtyagi577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
