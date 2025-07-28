@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Shivam Tyagi 👨🏻
 
-!LinkedIn (https://www.linkedin.com/in/shivam-tyagi-b1b040165/ | 💡 Problem Solver
+💡 Problem Solver
+
+# Yet to be told rest of the story!
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
