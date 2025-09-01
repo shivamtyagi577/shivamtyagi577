@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm Shivam Tyagi 👨🏻
+
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Email: connect.shivamtyagi@gmail.com' />
  
 💡 Problem Solver
 
