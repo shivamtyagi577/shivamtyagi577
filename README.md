@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shivam Tyagi 👨🏻
 
-<img src='https://img.shields.io/badge/Email-connect.shivamtyagi@gmail.com-orange' alt='Email: connect.shivamtyagi@gmail.com' /> <img src='https://img.shields.io/badge/LinkdeIn-Shivam Tyagi-orange' alt='Email: connect.shivamtyagi@gmail.com' />
+<img src='https://img.shields.io/badge/Email-connect.shivamtyagi@gmail.com-orange' alt='Email: connect.shivamtyagi@gmail.com' />
  
 💡 Problem Solver
 
