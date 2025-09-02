@@ -8,6 +8,11 @@
     <!-- <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dhirendrachoudhary-blue?style=flat-square&logo=linkedin"/>  -->
     <img src='https://img.shields.io/badge/LinkedIn-shivamtyagi-orange?style=flat-square&logo=linkedin' alt='LinkedIn' />
   </a>
+  <a href="https://leetcode.com/u/Shivam_Tyagi/">
+    <!-- <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dhirendrachoudhary-blue?style=flat-square&logo=linkedin"/>  -->
+    <img src='https://img.shields.io/badge/LeetCode-Problem_Solving_Abilities-orange?style=flat-square&logo=linkedin' alt='LinkedIn' />
+  </a>
+  
 </p>
 
 
