@@ -4,7 +4,7 @@
   <a href="mailto:connect.shivamtyagi@gmail.com">
     <img src='https://img.shields.io/badge/Email-connect.shivamtyagi@gmail.com-orange' alt='Email: connect.shivamtyagi@gmail.com' />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-tyagi-b1b040165/">
+  <a href="https://www.linkedin.com/in/shivam-tyagi-b1b040165/" target = "_blank">
     <!-- <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dhirendrachoudhary-blue?style=flat-square&logo=linkedin"/>  -->
     <img src='https://img.shields.io/badge/LinkedIn-shivamtyagi-orange?style=flat-square&logo=linkedin' alt='LinkedIn' />
   </a>
