@@ -19,8 +19,9 @@
   
 </p>
 
+---
 
-**💡 Problem Solver is how I want to be remembered.**
+### 💡 Problem Solver is how I want to be remembered.
 
 I am a Versatile Software Engineer with 3.5 years of strong SQL and Python experience in driving significant improvements in database performance and application efficiency.
 
