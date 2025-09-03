@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Shivam Tyagi 👨🏻
 
+**To keep this page open while visiting external resources:**
+
+**👉 Right-click the link below and choose - “Open link in new tab”**
+
 <p align="left">
   <a href="mailto:connect.shivamtyagi@gmail.com">
     <img src='https://img.shields.io/badge/Email-connect.shivamtyagi@gmail.com-orange' alt='Email: connect.shivamtyagi@gmail.com' />
