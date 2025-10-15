@@ -23,6 +23,13 @@
 
 ### 💡 Problem Solver is how I want to be remembered.
 
+* Marks are Marks, not Knowledge ❌
+* Qualifications are Qualifications, not Knowledge ❌
+* Experiences are Experiences, not Knowledge ❌
+* Knowledge is Knowledge, and its very powerful 💯
+
+---
+
 I am a Versatile Software Engineer with 3.5 years of strong SQL and Python experience in driving significant improvements in database performance and application efficiency.
 
 Expertise in optimizing query execution and enhancing job performance, multithreading and indexing.
