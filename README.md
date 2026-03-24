@@ -30,7 +30,7 @@
 
 ---
 
-I am a Versatile Software Engineer with 3.5 years of strong SQL and Python experience in driving significant improvements in database performance and application efficiency.
+I am a Versatile Software Engineer with 4.5 years of strong SQL and Python experience in driving significant improvements in database performance and application efficiency.
 
 Expertise in optimizing query execution and enhancing job performance, multithreading and indexing.
 
