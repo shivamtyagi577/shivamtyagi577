@@ -93,7 +93,7 @@ Here's a snapshot of the technologies and tools I work with:
 <p align="left">
   <img src="https://img.shields.io/badge/google_colab-F0E68C?style=for-the-badge&logo=google-colab&logoColor=black"/>
   <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/google_colab-F0E68C?style=for-the-badge&logo=google-colab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-F0E68C?style=for-the-badge&logo=google-colab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
