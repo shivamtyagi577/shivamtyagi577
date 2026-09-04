@@ -93,6 +93,7 @@ Here's a snapshot of the technologies and tools I work with:
 
 **Other Tools:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/google_colab-F0E68C?style=for-the-badge&logo=google-colab&logoColor=black"/>
   <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge" alt="VSCode"/>
   <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-F0E68C?style=for-the-badge&logo=google-colab&logoColor=black"/>
