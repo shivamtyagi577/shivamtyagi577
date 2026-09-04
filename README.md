@@ -62,6 +62,8 @@ Here's a snapshot of the technologies and tools I work with:
 
 **Languages & Databases And Its Kind:**
 <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQLServer-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/T_SQL-4EAA25?style=for-the-badge&logo=sql&logoColor=white" alt="Bash"/>
