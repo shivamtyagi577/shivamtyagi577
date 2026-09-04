@@ -73,6 +73,7 @@ Here's a snapshot of the technologies and tools I work with:
 
 **Skills and Abilities:**
 <p align="left">
+   <img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/Indexing-3776AB?style=for-the-badge" alt="Indexing"/>
   <img src="https://img.shields.io/badge/Data_Framing-4479A1?style=for-the-badge" alt="SQLServer"/>
   <img src="https://img.shields.io/badge/Triggers-4EAA25?style=for-the-badge" alt="Triggers"/>
@@ -105,6 +106,14 @@ Here's a snapshot of the technologies and tools I work with:
 ---
 
 ## 💼 Professional Experience
+
+### Senior Software Engineer @ Envision Financial Systems (Bengaluru, India)
+* Developed and maintained responsive, interactive UI components using React, integrating frontend interfaces seamlessly with backend APIs and services.
+* Accelerated feature development, boilerplate generation, and code refactoring by integrating GitHub Copilot and Cursor into daily engineering workflows.
+* Leveraged AI-driven code generation and intelligent debugging in Cursor/Copilot to optimize SQL queries, unit test coverage, and complex logic implementation.
+* Implement database partitioning for archiving, optimizing performance, and scaling to meet requirements.
+* Resolve data blocking, deadlocking, Thread/Session Locking and other contention issues.
+* Drive technical best practices, documentation standards, and architectural decisions.
 
 ### Software Engineer @ Envision Financial Systems (Bengaluru, India)
 
